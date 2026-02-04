@@ -211,8 +211,8 @@ export const profile: Profile = {
         {
           title: "Bedrock server: add API key auth support",
           repo: "awslabs/mcp",
-          status: "Merged",
-          href: "https://github.com/awslabs/mcp",
+          status: "Under Review",
+          href: "https://github.com/awslabs/mcp/pull/2359",
           impact: "Enables easier local dev + CI runs with non-default auth flows.",
           metrics: ["Faster setup for contributors", "Improved local usability"],
           tags: ["Auth", "Bedrock"]
