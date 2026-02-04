@@ -31,9 +31,7 @@ jobs:
         run: npm ci
 
       - name: Build
-        run: |
-          echo "GITHUB_PAGES_BASE=/${{ github.event.repository.name }}/" >> $GITHUB_ENV
-          npm run build
+        run: GITHUB_PAGES_BASE=/${{ github.event.repository.name }}/ npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
