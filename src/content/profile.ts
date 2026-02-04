@@ -91,8 +91,8 @@ export const profile: Profile = {
   location: "United States",
   email: "you@example.com",
   links: {
-    github: "https://github.com/your-handle",
-    linkedin: "https://www.linkedin.com/in/your-handle",
+    github: "https://github.com/rajanyadav0307",
+    linkedin: "https://www.linkedin.com/feed/",
     resume: "./resume.pdf",
     other: [{ label: "Google Scholar", href: "https://scholar.google.com/" }]
   },
@@ -139,11 +139,11 @@ export const profile: Profile = {
 
   experience: [
     {
-      company: "Your Company (Example)",
-      role: "Systems Software Developer",
+      company: "Comcast",
+      role: "Product Development Engineer",
       location: "India / US",
-      start: "2021-01-01",
-      end: "2025-01-01",
+      start: "2021-07-26",
+      end: "2025-07-17",
       highlights: [
         "Built and optimized C++ services on Linux, improving latency and reliability.",
         "Led debugging efforts for production issues using perf, gdb, sanitizers, and logs.",
