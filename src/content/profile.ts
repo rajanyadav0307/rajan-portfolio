@@ -89,7 +89,7 @@ export const profile: Profile = {
   name: "Rajan Yadav",
   headline: "Systems Software Developer • C++/Linux • MS (AI Track)",
   location: "United States",
-  email: "you@example.com",
+  email: "rajanyadav0307@gmail.com",
   links: {
     github: "https://github.com/rajanyadav0307",
     linkedin: "https://www.linkedin.com/feed/",
