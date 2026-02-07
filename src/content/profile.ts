@@ -112,7 +112,7 @@ export const profile: Profile = {
       {
         name: "Systems",
         items: [
-          { label: "C++ (17/20)", level: 92, note: "RAII, templates, perf, concurrency" },
+          { label: "C++ (17/20)", level: 90, note: "RAII, templates, perf, concurrency" },
           { label: "Linux", level: 88, note: "debugging, tooling, packaging" },
           { label: "Networking", level: 75, note: "HTTP, gRPC basics, sockets" },
           { label: "Build/Tooling", level: 80, note: "CMake, Ninja, clang/gcc, sanitizers" }
