@@ -131,7 +131,7 @@ export const profile: Profile = {
         items: [
           { label: "AWS", level: 70, note: "core services + SDK work" },
           { label: "Docker", level: 76, note: "repro builds, CI" },
-          { label: "CI/CD", level: 68, note: "GitHub Actions" }
+          { label: "CI/CD", level: 68, note: "GitHub Actions, Jenkins" }
         ]
       }
     ]
