@@ -150,7 +150,7 @@ export const profile: Profile = {
         "Designed clean interfaces/APIs for multi-team adoption and long-term maintenance."
       ],
       tags: ["C++", "Linux", "Performance", "Debugging"],
-      links: [{ label: "Company", href: "https://example.com" }]
+      links: [{ label: "Company", href: "https://www.xfinity.com/overview" }]
     }
   ],
 
