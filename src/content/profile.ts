@@ -92,7 +92,7 @@ export const profile: Profile = {
   email: "rajanyadav0307@gmail.com",
   links: {
     github: "https://github.com/rajanyadav0307",
-    linkedin: "https://www.linkedin.com/feed/",
+    linkedin: "https://www.linkedin.com/in/rajanyadav0307/",
     resume: "./resume.pdf",
     other: [{ label: "Google Scholar", href: "https://scholar.google.com/" }]
   },
