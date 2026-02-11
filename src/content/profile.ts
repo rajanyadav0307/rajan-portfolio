@@ -87,8 +87,8 @@ export type Profile = {
 
 export const profile: Profile = {
   name: "Rajan Yadav",
-  headline: "Systems Software Developer • C++/Linux • MS (AI Track)",
-  location: "United States",
+  headline: "Systems Software Developer • C++/Linux • MS in Computer Science",
+  location: "Texas, United States",
   email: "rajanyadav0307@gmail.com",
   links: {
     github: "https://github.com/rajanyadav0307",
