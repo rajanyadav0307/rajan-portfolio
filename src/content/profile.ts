@@ -145,9 +145,13 @@ export const profile: Profile = {
       start: "2021-07-26",
       end: "2025-07-17",
       highlights: [
-        "Built and optimized C++ services on Linux, improving latency and reliability.",
-        "Led debugging efforts for production issues using perf, gdb, sanitizers, and logs.",
-        "Designed clean interfaces/APIs for multi-team adoption and long-term maintenance."
+        "Designed and implemented system-level Voice Guidance runtime architecture in C++ for production Linux environments deployed across millions of devices.",
+        "Developed and maintained hardware-facing user-space C++ components interacting with embedded Linux subsystems on ARM platforms.",
+        "Developed core C++ TTS runtime components integrated with the WebKit engine, enabling OS-level Voice Guidance functionality across 300+ OTT applications with consistent behavior and correctness.",
+        "Ported and maintained GStreamer-based audio pipeline infrastructure across heterogeneous ARMv7/ARMv8 platforms, resolving cross-platform build and runtime compatibility issues.",
+        "Diagnosed and resolved 100+ production runtime failures using GDB, Valgrind, AddressSanitizer, and ThreadSanitizer, eliminating memory, concurrency, and shared-library defects.",
+        "Improved runtime reliability by increasing unit and integration test coverage from approximately 10% to 80% and refactoring audio components into modular, maintainable interfaces.",
+        "Optimized multithreaded runtime initialization paths, reducing system startup latency by 1.5 seconds in production Linux deployments."
       ],
       tags: ["C++", "Linux", "Performance", "Debugging"],
       links: [{ label: "Company", href: "https://www.xfinity.com/overview" }]
