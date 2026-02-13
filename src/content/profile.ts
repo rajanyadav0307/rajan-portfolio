@@ -220,15 +220,6 @@ export const profile: Profile = {
           impact: "Enables easier local dev + CI runs with non-default auth flows.",
           metrics: ["Faster setup for contributors", "Improved local usability"],
           tags: ["Auth", "Bedrock"]
-        },
-        {
-          title: "Fix Optional[int] JSON schema edge case",
-          repo: "awslabs/mcp",
-          status: "Merged",
-          href: "https://github.com/awslabs/mcp",
-          impact: "Improves client interoperability by generating correct optional schemas.",
-          metrics: ["Reduced schema mismatch failures", "Improved compatibility"],
-          tags: ["JSON Schema", "Pydantic"]
         }
       ]
     }
