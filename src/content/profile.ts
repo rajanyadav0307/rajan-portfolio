@@ -36,7 +36,7 @@ export type BlogPost = {
   href: string;
 };
 
-export type PRStatus = "Merged" | "Under Review" | "Draft" | "Closed";
+export type PRStatus = "Merged" | "Under Review" | "Closed";
 
 export type PullRequest = {
   title: string;
