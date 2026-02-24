@@ -114,7 +114,7 @@ export const profile: Profile = {
         items: [
           { label: "C++ (17/20/23)", level: 90, note: "RAII, templates, perf, concurrency, Synchronization, STL" },
           { label: "Linux", level: 88, note: "debugging, tooling, packaging, Bash Shell" },
-          { label: "Networking", level: 75, note: "HTTP, gRPC basics, sockets" },
+          { label: "Networking", level: 75, note: "HTTP, gRPC basics, sockets, TCP/IP" },
           { label: "Build/Tooling", level: 80, note: "CMake, Ninja, clang/gcc, Address Sanitizer, Thread Sanitizer"}
         ]
       },
