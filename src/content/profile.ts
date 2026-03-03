@@ -118,7 +118,7 @@ export const profile: Profile = {
           { label: "Build/Tooling", level: 80, note: "CMake, Ninja, clang/gcc, Address Sanitizer, Thread Sanitizer"},
           { label: "Debugging", level: 80, note: "Address Sanitizer, Thread Sanitizer, GDB, Valgrind, perf" },
           { label: "Libraries", level: 70, note: "Boost, OpenSSL, Poco, ICU" },
-          { label: "Architectures", level: 80, note: "ARMv7, ARMv8, x86_64" }
+          { label: "Architectures", level: 80, note: "ARMv7-A, ARMv8-A, x86_64" }
         ]
       },
       {
