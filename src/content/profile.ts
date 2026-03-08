@@ -116,7 +116,7 @@ export const profile: Profile = {
           { label: "Linux", level: 88, note: "debugging, tooling, packaging, Bash Shell" },
           { label: "Networking", level: 75, note: "HTTP, FTP, gRPC basics, sockets, TCP/IP " },
           { label: "Build/Tooling", level: 80, note: "CMake, Ninja, clang/gcc, Address Sanitizer, Thread Sanitizer"},
-          { label: "Debugging", level: 80, note: "Address Sanitizer, Thread Sanitizer, GDB, Valgrind, perf" },
+          { label: "Debugging", level: 80, note: "Address Sanitizer, Thread Sanitizer, GDB, Valgrind, perf, Undefined Behavior" },
           { label: "Libraries", level: 70, note: "Boost, OpenSSL, Poco, ICU" },
           { label: "Architectures", level: 80, note: "ARMv7-A, ARMv8-A, x86_64"}
 
