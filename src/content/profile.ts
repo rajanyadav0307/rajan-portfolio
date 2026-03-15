@@ -117,7 +117,7 @@ export const profile: Profile = {
           { label: "Networking", level: 75, note: "HTTP, FTP, gRPC basics, sockets, TCP/IP " },
           { label: "Build/Tooling", level: 80, note: "CMake, Ninja, bazel, clang/gcc, Address Sanitizer, Thread Sanitizer, Valgrind(Memcheck, Cachegrind,Callgrind), perf" },
           { label: "Debugging", level: 80, note: "Address Sanitizer, Thread Sanitizer, GDB, Valgrind, perf, Undefined Behavior, lldb" },
-          { label: "Libraries", level: 70, note: "Boost, OpenSSL, Poco, ICU, GStreamer, OpenBlas, FFTW" },
+          { label: "Libraries", level: 70, note: "Boost, OpenSSL, Poco, ICU, GStreamer, OpenBlas, FFTW, OpenCV" },
           { label: "Architectures", level: 80, note: "ARMv7-A, ARMv8-A, x86_64"}
 
         ]
