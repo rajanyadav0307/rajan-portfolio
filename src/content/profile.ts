@@ -114,7 +114,7 @@ export const profile: Profile = {
         items: [
           { label: "C++ (17/20/23)", level: 90, note: "RAII, templates, perf, concurrency, Synchronization, STL, Memory Model & Object Layout"},
           { label: "Linux", level: 88, note: "debugging, tooling, packaging, Bash Shell" },
-          { label: "Networking", level: 75, note: "HTTP, FTP, gRPC basics, sockets, TCP/IP " },
+          { label: "Networking", level: 75, note: "HTTP, FTP, gRPC basics, sockets, TCP/IP, UDP " },
           { label: "Build/Tooling", level: 80, note: "CMake, Ninja, bazel, clang/gcc, Address Sanitizer, Thread Sanitizer, Valgrind(Memcheck, Cachegrind,Callgrind), perf" },
           { label: "Debugging", level: 80, note: "Address Sanitizer, Thread Sanitizer, GDB, Valgrind, perf, Undefined Behavior, lldb" },
           { label: "Libraries", level: 70, note: "Boost, OpenSSL, Poco, ICU, GStreamer, OpenBlas, FFTW, OpenCV, Gstreamer, GTest" },
