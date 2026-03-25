@@ -113,7 +113,7 @@ export const profile: Profile = {
         name: "Systems",
         items: [
           { label: "C++ (17/20/23)", level: 90, note: "RAII, templates, perf, concurrency, Synchronization, STL, Memory Model & Object Layout"},
-          { label: "Linux", level: 88, note: "debugging, tooling, packaging, Bash Shell" },
+          { label: "Linux", level: 88, note: "debugging, tooling, packaging, Bash Shell, Kernel Debugging" },
           { label: "Networking", level: 75, note: "HTTP, FTP, gRPC basics, sockets, TCP/IP, UDP " },
           { label: "Build/Tooling", level: 80, note: "CMake, Ninja, bazel, clang/gcc, Address Sanitizer, Thread Sanitizer, Valgrind(Memcheck, Cachegrind,Callgrind), perf, Yocto(Bitbake)" },
           { label: "Debugging", level: 80, note: "Address Sanitizer, Thread Sanitizer, GDB, Valgrind, perf, Undefined Behavior, lldb" },
