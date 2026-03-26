@@ -129,7 +129,7 @@ export const profile: Profile = {
           { label: "Python", level: 78, note: "data + ML utilities" },
           { label: "ML Foundations", level: 70, note: "training, metrics, overfitting" },
           { label: "LLM Apps", level: 68, note: "RAG, eval, prompt + safety" },
-          { label: "Agentic AI", level:79, note: "AutoGPT, LangSmith, agentic patterns, crewAI, Google ADK"}
+          { label: "Agentic AI", level:79, note: "AutoGPT, LangSmith, agentic patterns, crewAI, Google ADK, Windows Copilot SDK" }
         ]
       },
       {
