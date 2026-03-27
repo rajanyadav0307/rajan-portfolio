@@ -119,7 +119,7 @@ export const profile: Profile = {
           { label: "Debugging", level: 80, note: "Address Sanitizer, Thread Sanitizer, GDB, Valgrind, perf, Undefined Behavior, lldb" },
           { label: "Libraries", level: 70, note: "Boost, OpenSSL, Poco, ICU, GStreamer, OpenBlas, FFTW, OpenCV, Gstreamer, GTest, ARMpl" },
           { label: "Architectures", level: 80, note: "ARMv7-A, ARMv8-A, x86_64"},
-          { label: "Design Patterns", level: 90, note: "RAII, Pimpl, Factory, Observer, Singleton, Strategy, Adapter, Decorator, Abstract Factory" }
+          { label: "Design Patterns", level: 90, note: "RAII, Pimpl, Factory, Observer, Singleton, Strategy, Adapter, Decorator, Abstract Factory, Builder" }
 
         ]
       },
