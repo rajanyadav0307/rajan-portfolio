@@ -102,8 +102,7 @@ export const profile: Profile = {
       "I build reliable, performance-focused systems in C++ on Linux—and I’m now expanding into applied AI/ML through an MS program in the US.",
     bullets: [
       "4 years building production systems: concurrency, networking, performance tuning, debugging.",
-      "Strong fundamentals: OS, memory, compilers/toolchains, distributed systems basics.",
-      "AI track focus: model training/inference basics, retrieval, evaluation, and deployment."
+      "Strong fundamentals: OS, memory, compilers/toolchains, distributed systems basics."
     ]
   },
 
